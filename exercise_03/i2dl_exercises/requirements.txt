@@ -1,4 +1,4 @@
-numpy==1.17.3
+numpy==1.22.0
 appdirs==1.4.3
 appnope==0.1.0
 backports-abc==0.5
